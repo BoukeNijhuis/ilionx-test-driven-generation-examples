@@ -69,7 +69,7 @@
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
                     <testFilePath>
-                        /Users/boukenijhuis/git/ilionx-test-driven-generation-examples/src/test/java/org/example/endpoint/EndpointAgeTest.java
+                        /Users/boukenijhuis/git/ilionx-test-driven-generation-examples/src/test/java/org/example/endpoint/EndpointTest.java
                     </testFilePath>
 
 <!--                    <family>ollama</family>-->
@@ -78,8 +78,8 @@
 <!--                    <server>http://localhost:11434</server>-->
 <!--                    <prompt>Do not write a test. Write production code that passes this test: %n%s</prompt>-->
 
-                    <family>chatgpt</family>
-                    <model>gpt-4</model>
+<!--                    <family>chatgpt</family>-->
+<!--                    <model>gpt-4</model>-->
                 </configuration>
                 <executions>
                     <execution>
